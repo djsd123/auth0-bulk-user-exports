@@ -1,0 +1,7 @@
+{
+  "connection_id": "%s",
+  "format": "csv",
+  "fields": [
+    {"name": "email"}, { "name": "nickname", "export_as": "username"}, {"name": "created_at", "export_as": "joined"}
+  ]
+}
